@@ -20,4 +20,13 @@ Package Control（请去Google一下）
 
 ##组件
 
-TODO...
+"ApplySyntax"          --更好的语言探测
+"Codecs33"             --为了让ConvertToUTF8更好的工作
+"ConvertToUTF8"        --自动转换各种非UTF8格式（中文兼容）
+"Emmet"                --原Zencoding，神器不解释
+"Git"                  --让st3支持git
+"JSHint Gutter"        --JS语法检查器，让你的js更加规范
+"Placeholders"         --各种占位符（包括图片），超方便
+"SideBarEnhancements"  --更好的边栏
+"Theme - Flatland"     --推荐主题
+"Theme - Soda"         --推荐主题

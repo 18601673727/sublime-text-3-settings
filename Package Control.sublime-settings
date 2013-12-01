@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"Codecs33",
 		"ConvertToUTF8",
 		"Emmet",
