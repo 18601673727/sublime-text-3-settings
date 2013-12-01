@@ -16,8 +16,8 @@ git clone https://github.com/18601673727/sublime-text-3-settings.git "User"
 
 ##依赖
 
-OS X（目前只在此系统上测试了，用windows的童鞋建议换其他编辑器吧）
-Sublime Text 3（这个不装一切都是浮云）
+OS X（目前只在此系统上测试了，用windows的童鞋建议换其他编辑器吧）  
+Sublime Text 3（这个不装一切都是浮云）  
 Package Control（请去Google一下）
 
 ##组件
