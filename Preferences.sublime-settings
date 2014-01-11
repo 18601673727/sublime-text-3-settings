@@ -1,4 +1,5 @@
 {
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"font_face": "Source Code Pro",
 	"font_size": 18.0,
 	"ignored_packages":
@@ -7,8 +8,7 @@
 	],
 	"line_padding_bottom": 0,
 	"line_padding_top": 0,
-	"soda_folder_icons": true,
 	"tab_size": 4,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

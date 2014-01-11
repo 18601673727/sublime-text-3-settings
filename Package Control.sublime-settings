@@ -1,15 +1,20 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"ApplySyntax",
 		"Codecs33",
+		"CodeIgniter Snippets",
 		"ConvertToUTF8",
 		"Emmet",
 		"Git",
+		"HTML-CSS-JS Prettify",
 		"JSHint Gutter",
 		"Placeholders",
 		"SideBarEnhancements",
 		"Theme - Flatland",
-		"Theme - Soda"
+		"Theme - Minimal",
+		"Theme - Soda",
+		"Theme - Spacegray"
 	]
 }
