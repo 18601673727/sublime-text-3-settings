@@ -9,12 +9,16 @@
 		"Emmet",
 		"Git",
 		"HTML-CSS-JS Prettify",
+		"Jade",
 		"JSHint Gutter",
+		"LESS",
+		"Minifier",
 		"Placeholders",
+		"SCSS",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"Theme - Flatland",
 		"Theme - Minimal",
-		"Theme - Soda",
-		"Theme - Spacegray"
+		"Theme - Soda"
 	]
 }
